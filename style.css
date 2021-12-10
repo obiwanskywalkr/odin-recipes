@@ -1,0 +1,14 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-heading {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bolder;
+}
+.main-link {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
