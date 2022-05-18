@@ -1,3 +1,5 @@
-# odin-recipes
+# Recipes
 
-A simple recipe website to employ basic HTML syntax and to practice using git and GitHub.
+A simple recipe website built with only HTML.
+
+The goal of this project was to employ basic HTML syntax and practice using git and GitHub.
