@@ -1,3 +1,3 @@
 # odin-recipes
 
-A simple recipe website to employ basic HTML commands and practice using Git.
+A simple recipe website to employ basic HTML syntax and to practice using git and GitHub.
